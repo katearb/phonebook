@@ -2,7 +2,7 @@
 
 This is my project within the minor course "Intellectual Data Analysis" - Introduction to Python (sep-dec 2020).
 
-The functiomns are in phonebook.py
+The functions are in phonebook.py
 
 The realisation itself is in start.py
 
